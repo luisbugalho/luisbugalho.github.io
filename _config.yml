@@ -32,7 +32,7 @@ twitter_username: luisbugalho
 github_username:  luisbugalho
 
 # Build settings
-theme: no-style-please
+remote-theme: no-style-please
 plugins:
   - jekyll-feed
 
