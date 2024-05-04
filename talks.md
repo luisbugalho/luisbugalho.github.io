@@ -23,4 +23,4 @@ The talks and posters presented in conferences and workshops are displayed per w
 	- April 2021, **Workshop Poster**, Bristol Quantum Information Technologies Workshop (BQIT), *online*
 	- April 2021, **Workshop talk**, Quantum Internet Alliance (QIA) Meeting, *online*
 	- April 2021, **Seminar talk**, LIP6, Sorbonne Université, *online for QI Team*
- 
+  
