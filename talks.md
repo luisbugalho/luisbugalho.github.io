@@ -11,11 +11,11 @@ The talks and posters presented in conferences and workshops are displayed per w
 	- March 2023, **Workshop Talk**, PT-UK Workshop on Quantum Technologies in Space,*Lisboa, Portugal*
 
 - #### Resource-efficient simulation of noisy quantum circuits and application to network-enabled QRAM optimization 
-\[Bugalho2023b\] (see poster, see slides)
+\[Bugalho2023b\] (see <a href='attachments/PosterQRAM.pdf'>poster</a>, see slides)
 	- July 2023, **Conference Poster**, Theory of Quantum Computation, Communication and Cryptography (TQC) Conference, *Aveiro, Portugal*
 
 - #### Distributing Multipartite Entanglement over Noisy Quantum Networks 
-\[Bugalho2023a\] (see poster, see slides)
+\[Bugalho2023a\] (see <a href='attachments/PosterDistributing.pdf'>poster</a>, see <a href='attachments/SlidesDistributing.pdf'>slides</a>)
 	- March 2023, **Seminar Talk**, UMass/CQN Quantum Network Science Seminar, *online for University of Massachusetts Amherst*
 	- July 2022, **Conference Poster**, International Conference on Quantum Communication, Measurement and Computing (QCMC), *Lisboa, Portugal*
 	- February 2022, **Conference Talk**, International School and Conference on Network Science (NetSciX), *Porto, Portugal*
