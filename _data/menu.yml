@@ -4,9 +4,9 @@
 entries:
   - title: About
     entries:
-      - title: This is the webpage of Luís Bugalho. He will not talk about himself in the third person anywhere but here. He is a PhD Researcher
-               in the area of Quantum Information, for the time being. He is originally a physicist, who found his way through mathematics, and 
-               most often than not enjoys solving problems as work.
+      - title: This is the webpage of Luís Bugalho. He is a PhD Researcher in the area of Quantum Information, dividing his time between <a href='https://pqi.pt/pt/home'>PQI</a> in Lisboa and <a href='https://qi.lip6.fr'>LIP6</a> in Paris.
+               He is originally a physicist, who found his way through mathematics, and most often than not, enjoys solving problems as work. 
+               This concludes the portion of the website where he writes about himself in the third person. Welcome!
 
   - title: Academic
     entries:
