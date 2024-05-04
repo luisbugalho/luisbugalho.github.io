@@ -35,3 +35,4 @@ entries:
         - title: Contacts and my links
           entries:
             - title: Email me <a href='mailto:luis.bugalho@tecnico.ulisboa.pt'>@ here</a>
+            - title: My orcid <a href='https://orcid.org/0000-0002-5986-7122'>@ here</a>
