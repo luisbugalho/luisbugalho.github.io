@@ -7,3 +7,14 @@ Just a little context: once upon a time, <a href='https://www.vsco.co'>VSCO</a> 
 
 Some while ago, a good friend of mine started his own <span style="background-color: #ffc324;"><a href='https://www.carrozo.com/cascade'>~CASCADE~</a></span>. So, here is mine:
 
+<div align="center"><i> 5 May 2024, Paris </i></div>
+
+<p align="center" width="100%">
+    <img width="75%" src="5-may-2024-2.jpeg">
+</p>
+
+<div align="center"><i> 5 May 2024, Paris </i></div>
+
+<p align="center" width="100%">
+    <img width="75%" src="5-may-2024-1.jpeg">
+</p>
