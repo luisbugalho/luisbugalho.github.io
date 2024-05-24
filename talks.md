@@ -8,7 +8,7 @@ The talks and posters presented in conferences and workshops are displayed per w
 - #### Quantum Sensor Networks 
 \[To appear...\] (see poster, see slides)
 	- March 2024, **Workshop Talk**, Quantum Sensing and Metrology Workshop @ ANACOM, *Lisboa, Portugal*
-	- March 2023, **Workshop Talk**, PT-UK Workshop on Quantum Technologies in Space,*Lisboa, Portugal*
+	- March 2023, **Workshop Talk**, PT-UK Workshop on Quantum Technologies in Space, *Lisboa, Portugal*
 
 - #### Resource-efficient simulation of noisy quantum circuits and application to network-enabled QRAM optimization 
 \[Bugalho2023b\] (see <a href='attachments/poster-qram.pdf'>poster</a>, see slides)
