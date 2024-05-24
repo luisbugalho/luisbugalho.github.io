@@ -10,13 +10,13 @@ Some while ago, a good friend of mine started his own <span style="background-co
 <div align="center"><i> 17 May 2024, Marseille </i></div>
 
 <p align="center" width="100%">
-    <img width="75%" src="cascadedata/17-may-2024-2.jpeg">
+    <img width="75%" src="cascadedata/17-may-2024-2.jpg">
 </p>
 
 <div align="center"><i> 17 May 2024, Marseille </i></div>
 
 <p align="center" width="100%">
-    <img width="75%" src="cascadedata/17-may-2024-1.jpeg">
+    <img width="75%" src="cascadedata/17-may-2024-1.jpg">
 </p>
 
 <div align="center"><i> 5 May 2024, Paris </i></div>
