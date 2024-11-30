@@ -14,6 +14,12 @@ A full version of my CV can be found <a href='attachments/cv-may-2024.pdf'>here<
 - #### January 2021--September 2021: Graduate Research Assistant
 *Physics of Information and Quantum Technologies Group at Instituto de Telecomunicações, Lisboa, Portugal*
 
+### Teaching
+
+- #### November 2024--February 2025: Physics II (Electromagnetism)
+*Instituto Superior Técnico (Taguspark), Lisboa, Portugal* Exercise sessions for Bachelor's students of LEGI (Engenharia e Gestão Industrial).
+
+
 ### Education
 
 - #### 2018--2021: Masters in Engineering Physics (<a href='https://fenix.tecnico.ulisboa.pt/cursos/meft'>MEFT</a>)
