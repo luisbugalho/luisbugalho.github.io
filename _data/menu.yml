@@ -4,9 +4,9 @@
 entries:
   - title: About
     entries:
-      - title: This is the webpage of Luís Bugalho. He is a PhD Researcher in the area of Quantum Information, dividing his time between <a href='https://pqi.pt/pt/home'>PQI</a> in Lisboa and <a href='https://qi.lip6.fr'>LIP6</a> in Paris.
-               He is originally a physicist, who found his way through mathematics, and most often than not, enjoys solving problems as work. 
-               This concludes the portion of the website where he writes about himself in the third person. Welcome!
+      - title: Hey! I'm Luís Bugalho and this is my webpage. I am a PhD Researcher in the area of Quantum Information, in between <a href='https://pqi.pt/pt/home'>PQI</a> in Lisboa and <a href='https://qi.lip6.fr'>LIP6</a> in Paris.
+               I am originally a physicist, who found his way through mathematics, and most often than not, I enjoy solving problems as work. 
+               When I’m not working, I’m happiest with an oceanic breeze, great company and good food. Welcome!
 
   - title: Academic
     entries:
@@ -28,6 +28,9 @@ entries:
 
   - title: ~ THE CASCADE ~
     url: cascade2
+
+  - title: Good Food
+    url: goodfood
 
   - title: Link-me-up
     entries:
