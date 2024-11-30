@@ -8,10 +8,10 @@ from datetime import datetime
 
 # Configuration
 photos_folder = "cascadedata"  # Replace with your folder path
-output_file = "cascade2.md"  # Output markdown file
+output_file = "cascade.md"  # Output markdown file
 image_base_url = "/cascadedata/"  # Path where images are hosted on your site
 thumbnail_folder = "cascadedata/thumbnails"  # Folder to save thumbnails
-thumbnail_size = (200, 200)  # Maximum size for thumbnails
+thumbnail_size = (1000, 1000)  # Maximum size for thumbnails
 preamble_f = "cascade_intro.txt"  # Path to the text file containing the preamble
 
 
@@ -170,7 +170,7 @@ def generate_markdown(photos_folder, thumbnail_folder, output_file, image_base_u
 
             md_file.write(f'<div align="center"><i> {date}, {location} </i></div>')
             md_file.write(f'<a href="{image_url}" target="_blank">\n')
-            md_file.write(f'    <img src="{thumbnail_url}" alt="{file_name}" style="max-width: 200px; height: auto;">\n')
+            md_file.write(f'    <img src="{thumbnail_url}" alt="{file_name}" style="max-width: 75%; height: auto;">\n')
             md_file.write(f"</a>\n\n")
 
 
