@@ -1,3 +1,8 @@
+---
+layout: page
+title: THE CASCADE
+---
+
 # Photo Gallery
 
 A collection of photos with their respective dates and locations.
