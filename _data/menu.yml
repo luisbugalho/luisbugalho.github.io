@@ -29,9 +29,6 @@ entries:
   - title: ~ THE CASCADE ~
     url: cascade2
 
-  - title: Good Food
-    url: goodfood
-
   - title: Link-me-up
     entries:
         - title: A <a href='linkmeup'>bunch</a> of nice things I found around
