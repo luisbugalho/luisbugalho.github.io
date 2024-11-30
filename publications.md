@@ -13,6 +13,8 @@ All publications are also available at <a href='https://scholar.google.com/citat
 
 ### Pre-Prints
 
+- *Private and Robust States for Distributed Quantum Sensing*, Bugalho, L., Hassani, M., Omar, Y., & Markham, D., **Pre-print in arXiv (2024)**, <a href='https://doi.org/10.48550/arXiv.2407.21701'>doi.org/10.48550/arXiv.2407.21701</a> 
+
 - *Entanglement Routing Based on Fidelity Curves for Quantum Photonics Channels*, Coutinho, B. C., Monteiro, R., Bugalho, L. & Monteiro, F. A., **Pre-print in arXiv (2023)**, <a href='https://doi.org/10.48550/arXiv.2303.12864'>doi.org/10.48550/arXiv.2303.12864</a>
 
 ### Workshop Papers

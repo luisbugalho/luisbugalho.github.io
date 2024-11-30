@@ -5,8 +5,9 @@ title: Talks and Posters
 
 The talks and posters presented in conferences and workshops are displayed per work, with references in <a href='publications'>here</a>.
 
-- #### Quantum Sensor Networks 
-\[To appear...\] (see poster, see slides)
+- #### Quantum Sensor Networks - Privacy
+\[Bugalho2024\] (see <a href='attachments/poster-privacy.pdf'>poster</a>, see slides)
+	- November 2024, **Conference Poster**, European Quantum Tecnhology Conference (EQTC), *Lisboa, Portugal*
 	- March 2024, **Workshop Talk**, Quantum Sensing and Metrology Workshop @ ANACOM, *Lisboa, Portugal*
 	- March 2023, **Workshop Talk**, PT-UK Workshop on Quantum Technologies in Space, *Lisboa, Portugal*
 
