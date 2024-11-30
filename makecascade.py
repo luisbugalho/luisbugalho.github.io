@@ -168,9 +168,9 @@ def generate_markdown(photos_folder, thumbnail_folder, output_file, image_base_u
             thumbnail_url = entry["thumbnail_url"]
             image_url = entry["image_url"]
 
-            md_file.write(f'<div align="center"><i> {date}, {location} </i></div>')
-            md_file.write(f'<a href="{image_url}" target="_blank">\n')
-            md_file.write(f'    <img src="{thumbnail_url}" alt="{file_name}" style="max-width: 75%; height: auto;">\n')
+            md_file.write(f'<div align="center"><i> {date}, {location} </i></div>\n')
+            md_file.write(f'<a width="75%" href="{image_url}" target="_blank">\n')
+            md_file.write(f'    <img src="{thumbnail_url}" alt="{file_name}">\n')
             md_file.write(f"</a>\n\n")
 
 
