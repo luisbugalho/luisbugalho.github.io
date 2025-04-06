@@ -7,7 +7,7 @@ All publications are also available at <a href='https://scholar.google.com/citat
 
 ### Journal Publications
 
-- *Private and Robust States for Distributed Quantum Sensing*, Bugalho, L., Hassani, M., Omar, Y., & Markham, D., **Quantum 9, 1596 (2025)**, <a href='https://doi.org/10.22331/q-2025-01-15-1596'>doi.org/10.22331/q-2025-01-15-1596</a>, , \[Bugalho2025\]
+- *Private and Robust States for Distributed Quantum Sensing*, Bugalho, L., Hassani, M., Omar, Y., & Markham, D., **Quantum 9, 1596 (2025)**, <a href='https://doi.org/10.22331/q-2025-01-15-1596'>doi.org/10.22331/q-2025-01-15-1596</a>, \[Bugalho2025\]
 
 - *Resource-efficient simulation of noisy quantum circuits and application to network-enabled QRAM optimization*, Bugalho, L., Zambrini Cruzeiro, E., Chen, K. C., Dai, W., Englund, D. & Omar, Y., **npj Quantum Inf 9, 1–13 (2023)**, <a href='https://doi.org/10.1038/s41534-023-00773-x'>doi.org/10.1038/s41534-023-00773-x</a>, \[Bugalho2023b\]
 
