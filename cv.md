@@ -16,6 +16,9 @@ A full version of my CV can be found <a href='attachments/cv-may-2024.pdf'>here<
 
 ### Teaching
 
+- #### April 2025--June 2025: Mechanics and Waves
+*Instituto Superior Técnico (Taguspark), Lisboa, Portugal* Exercise sessions for Bachelor's students of LMAC (Matemática Aplicada e Computação).
+
 - #### November 2024--February 2025: Physics II (Electromagnetism)
 *Instituto Superior Técnico (Taguspark), Lisboa, Portugal* Exercise sessions for Bachelor's students of LEGI (Engenharia e Gestão Industrial).
 
