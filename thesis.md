@@ -11,9 +11,8 @@ title: Thesis Defense
 
 *Thesis Title:* “Towards Quantum Sensor Networks”  
 
-*Superviser*: Dr. Yasser Rashid Revez Omar, Professor Associado do Instituto Superior Técnico da Universidade de Lisboa
- 
-*Co-Superviser:* Dr. Damian Markham, Directeur de Recherches CNRS, Sorbonne Université
+*Supervisors*: Dr. Yasser Rashid Revez Omar, Professor Associado do Instituto Superior Técnico da Universidade de Lisboa
+ 			   Dr. Damian Markham, Directeur de Recherches CNRS, Sorbonne Université
  
 *Link Zoom*: <a href="https://tecnico-pt.zoom.us/j/91798029691">https://tecnico-pt.zoom.us/j/91798029691</a>
 
